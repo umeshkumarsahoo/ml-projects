@@ -117,7 +117,7 @@ print(predictions)
 
 ## ✨ Author
 **Your Name**
-📧 Email: your.email@example.com
+📧 Email: sahooumesh2003@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/umesh-kumar-sahoo-94626727a) | [GitHub](https://github.com/umeshkumarsahoo)
 
 ---
